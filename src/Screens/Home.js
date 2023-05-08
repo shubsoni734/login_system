@@ -29,6 +29,9 @@ const Home = () => {
         setEditable(false);
       });
   };
+  const clearlocal = () => {
+    localStorage.clear();
+  };
   return (
     <div className="bodys">
       <Layout>
@@ -75,7 +78,7 @@ const Home = () => {
               Update
             </button>
             <br />
-            <button className="btnstyle">
+            <button className="btnstyle" onClick={clearlocal}>
               <Link
                 to="/"
                 style={{
