@@ -15,7 +15,9 @@ first download the zip file.
 open CMD then write npm start
 after start npm server your front end is ready to use.
 
+# contact detail
+name:- shubham soni
 Gmail:- shubsoni734@gmail.com
-contact number:- 9461096095
+Number:- 9461096095
 
 
