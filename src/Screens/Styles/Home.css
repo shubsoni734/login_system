@@ -1,0 +1,27 @@
+
+.inner{
+    text-align: center;
+}
+.heding{
+    font-size: 40px;
+    margin: 20px;
+}
+.printValue{
+    font-size: 30px;
+}
+.lables{
+    margin-right: 10px;
+}
+.btnstyle{
+    margin: 10px;
+    width: 300px;
+    border-radius: 20px;
+    padding: 2px;
+    border: solid 5px white;
+    background: linear-gradient(220deg, #f00b51,#7366ff);
+    color: white;
+}
+.btnstyle:hover{
+    box-shadow: 0 0 10px #ffa62e,0 0 10px #ffa62e;
+
+}
